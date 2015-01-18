@@ -91,9 +91,9 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: https://www.facebook.com/phoenixcraft.co
         youtubeLink: null,
-        website: null,
+        website: http://phoenixcraft-mcpro.enjin.com/
         intervalMessages: [],
         messageInterval: 5,
         songstats: false,
