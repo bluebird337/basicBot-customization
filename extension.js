@@ -82,7 +82,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: false,
+        motdEnabled: true,
         motdInterval: 5,
         motd: "Welcome to PhoenixCraft's music room!",
         filterChat: true,
@@ -96,7 +96,7 @@
         website: null,
         intervalMessages: [],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
